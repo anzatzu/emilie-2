@@ -1,0 +1,4 @@
+2021-06-20 06:46:42,273:DEBUG:discord.client: on_ready has successfully been registered as an event
+2021-06-20 06:46:42,275:INFO:discord.client: Cleaning up tasks.
+2021-06-20 06:46:42,275:INFO:discord.client: Cleaning up after 1 tasks.
+2021-06-20 06:46:42,276:INFO:discord.client: Closing the event loop.

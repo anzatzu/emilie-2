@@ -42,7 +42,7 @@ class Sheets(commands.Cog):
         self.debugChannel = client.get_channel(12345678)
         self.marketChannel = client.get_channel(12345678)
 
-        self.adminUsers = ["username#1234"]
+        self.adminUsers = ["anzatzu"]
 
         # Spreadsheet URLs
         self.marketURL = "https://docs.google.com/spreadsheets/d/..."
